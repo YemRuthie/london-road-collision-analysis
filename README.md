@@ -31,19 +31,19 @@ The Power BI report contains three analytical pages.
 
 ### 1. London Collision Overview
 
-![London Collision Overview](images/london-collision-overview.png)
+![London Collision Overview](Images/london-collision-overview.png)
 
 Provides a high-level view of collision volume, casualties, KSI collisions, severity distribution and monthly trends across 2021–2023.
 
 ### 2. Weather & Severity
 
-![Weather and Severity](images/weather-severity.png)
+![Weather and Severity](Images/weather-severity.png)
 
 Compares collision volume and severity across weather conditions, distinguishing between how frequently collisions occur and the proportion resulting in serious or fatal outcomes.
 
 ### 3. Beyond Weather: Risk Factors
 
-![Beyond Weather](images/beyond-weather-risk-factors.png)
+![Beyond Weather](Images/beyond-weather-risk-factors.png)
 
 Explores KSI rates across lighting conditions, road types, road surfaces and posted speed limits.
 
